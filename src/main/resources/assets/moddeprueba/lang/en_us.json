@@ -1,0 +1,13 @@
+{
+  "itemGroup.moddeprueba": "Example Mod Tab",
+  "block.moddeprueba.example_block": "Example Block",
+  "item.moddeprueba.example_item": "Example Item",
+
+  "moddeprueba.configuration.title": "Mod de prueba Configs",
+  "moddeprueba.configuration.section.moddeprueba.common.toml": "Mod de prueba Configs",
+  "moddeprueba.configuration.section.moddeprueba.common.toml.title": "Mod de prueba Configs",
+  "moddeprueba.configuration.items": "Item List",
+  "moddeprueba.configuration.logDirtBlock": "Log Dirt Block",
+  "moddeprueba.configuration.magicNumberIntroduction": "Magic Number Text",
+  "moddeprueba.configuration.magicNumber": "Magic Number"
+}
