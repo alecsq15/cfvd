@@ -1,13 +1,13 @@
 {
-  "itemGroup.moddeprueba": "Example Mod Tab",
-  "block.moddeprueba.example_block": "Example Block",
-  "item.moddeprueba.example_item": "Example Item",
-
-  "moddeprueba.configuration.title": "Mod de prueba Configs",
-  "moddeprueba.configuration.section.moddeprueba.common.toml": "Mod de prueba Configs",
-  "moddeprueba.configuration.section.moddeprueba.common.toml.title": "Mod de prueba Configs",
-  "moddeprueba.configuration.items": "Item List",
-  "moddeprueba.configuration.logDirtBlock": "Log Dirt Block",
-  "moddeprueba.configuration.magicNumberIntroduction": "Magic Number Text",
-  "moddeprueba.configuration.magicNumber": "Magic Number"
+  "moddeprueba.configuration.title": "Brutal Raids Config",
+  "moddeprueba.configuration.section.moddeprueba.common.toml": "Brutal Raids",
+  "moddeprueba.configuration.section.moddeprueba.common.toml.title": "Brutal Raids",
+  "moddeprueba.configuration.enabled": "Enable Brutal Raids",
+  "moddeprueba.configuration.requiredBadOmenLevel": "Required Bad Omen Level",
+  "moddeprueba.configuration.maxWaves": "Maximum Waves",
+  "moddeprueba.configuration.maxIllusionersPerWave": "Maximum Illusioners Per Wave",
+  "moddeprueba.configuration.illusionerStartWave": "Illusioner Start Wave",
+  "moddeprueba.configuration.maxSpeedAmplifier": "Maximum Speed Amplifier",
+  "moddeprueba.configuration.speedChanceDenominator": "Speed Chance Denominator",
+  "moddeprueba.configuration.announceBrutalRaids": "Announce Brutal Raids"
 }
